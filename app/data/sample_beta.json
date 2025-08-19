@@ -1,0 +1,34 @@
+[
+  {
+    "id": "B200",
+    "member": "P003",
+    "code": "93000",
+    "error_msg": "form incomplete",
+    "date": "2025-06-20",
+    "status": "denied"
+  },
+  {
+    "id": "B201",
+    "member": "P004",
+    "code": "93010",
+    "error_msg": null,
+    "date": "2025-06-18",
+    "status": "denied"
+  },
+  {
+    "id": "B202",
+    "member": "P005",
+    "code": "93010",
+    "error_msg": "Authorization expired",
+    "date": "2025-06-10",
+    "status": "denied"
+  },
+  {
+    "id": "B203",
+    "member": "P006",
+    "code": "93015",
+    "error_msg": "Prior auth required",
+    "date": "2025-07-10",
+    "status": "denied"
+  }
+]

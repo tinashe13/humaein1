@@ -1,0 +1,15 @@
+{
+  "processed": 5,
+  "accepted": 5,
+  "rejected": 0,
+  "flagged": 2,
+  "excluded": 3,
+  "by_source": {
+    "alpha": {
+      "processed": 5,
+      "flagged": 2,
+      "rejected": 0
+    }
+  },
+  "generated_at": "2025-08-19T20:37:13.505482"
+}
